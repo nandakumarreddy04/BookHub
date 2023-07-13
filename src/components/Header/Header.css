@@ -1,0 +1,17 @@
+.header-content{
+    min-height: 50vh;
+    background: linear-gradient(rgba(141, 39, 100, 0.3), rgba(39, 48, 174, 0.5));
+    flex-direction: column;
+}
+.header-title{
+    font-size: 4.2rem;
+}
+.header-text{
+    margin-top: -1.2rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
+
+/* linear-gradient(rgba(141, 39, 174, 0.3), rgba(141, 39, 174, 0.5)), ,
+url("../../images/library-img.webp") center/cover no-repeat */
