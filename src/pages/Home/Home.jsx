@@ -8,8 +8,9 @@ const Home = () =>{
     return(
        <main>
         <Header />
-        <BookList />
         <Outlet />
+        <BookList />
+        
         <About />
        </main>
     )
